@@ -1,0 +1,13 @@
+# Arquivos de banco de dados
+*.sql
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos de logs
+*.log
+
+# Diretórios de build
+build/
+dist/
